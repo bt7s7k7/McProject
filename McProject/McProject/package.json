@@ -1,0 +1,10 @@
+{
+	"name": "mc-project",
+	"version": "1.0.0",
+	"description": "McProject",
+	"main": "app.js",
+	"author": {
+		"name": "bt7s7k7"
+	},
+	"license": "GPL-3.0"
+}

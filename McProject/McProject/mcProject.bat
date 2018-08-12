@@ -1,0 +1,1 @@
+@node %~pd0\app.js %*
